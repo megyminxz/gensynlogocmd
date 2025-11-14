@@ -105,18 +105,4 @@ time.sleep(0.08)  # In main() function - lower = faster
 - **Particles**: Dynamic gray scale `RGB(80-180, 80-180, 80-180)`
 - **Background**: Pure black
 
-## 📝 License
 
-Free to use and modify. Created for the Gensyn project.
-
-## 🙏 Credits
-
-Created with ❤️ using Python and mathematics.
-
----
-
-**Tip**: For the best visual experience, use a terminal with:
-- Dark background
-- Unicode font support
-- True color (24-bit) support
-- Monospace font like Consolas, Courier New, or Fira Code
